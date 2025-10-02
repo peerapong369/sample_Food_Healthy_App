@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#16a34a"         # เขียวฟิตเนส
+backgroundColor="#ffffff"      # ขาวสะอาด
+secondaryBackgroundColor="#f0fdf4" # เขียวอ่อน
+textColor="#1f2937"            # เทาเข้มอ่านง่าย
+font="sans serif"
